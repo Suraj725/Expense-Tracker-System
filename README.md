@@ -21,6 +21,8 @@ Pandas
 Data Visualization (Matplotlib)
 Machine Learning (Linear Regression)
 PDF Report Generation (ReportLab)
+
+
 📂 Project Folder Structure
 SmartExpenseTracker/
 │
