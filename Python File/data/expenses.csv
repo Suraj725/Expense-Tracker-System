@@ -1,0 +1,135 @@
+date,category,amount,description
+
+2025-01-01,Rent,6500,Monthly hostel rent
+2025-01-03,Groceries,750,Weekly grocery restock
+2025-01-04,Food,140,Canteen veg thali
+2025-01-07,Transport,60,Metro recharge
+2025-01-09,Mobile Recharge,199,Monthly recharge
+2025-01-12,Entertainment,150,Cafe cold coffee
+2025-01-15,Food,180,Chicken roll
+2025-01-18,Shopping,320,Pens and notebook
+2025-01-20,Health,210,Fever medicines
+2025-01-22,Food,100,Chai and toast
+2025-01-25,Transport,55,Shared auto ride
+
+2025-02-01,Rent,6500,Monthly hostel rent
+2025-02-03,Groceries,720,Vegetables and essentials
+2025-02-05,Food,160,Canteen dosa
+2025-02-08,Transport,50,Auto to coaching
+2025-02-10,Mobile Recharge,199,Unlimited calling pack
+2025-02-11,Entertainment,300,Movie ticket
+2025-02-14,Food,120,Chai and poha
+2025-02-17,Shopping,250,Notebook bundle
+2025-02-20,Health,180,Cold medicine
+2025-02-23,Food,180,Pav bhaji dinner
+2025-02-25,Transport,60,Metro recharge
+
+2025-03-01,Rent,6500,Monthly hostel rent
+2025-03-03,Groceries,760,Milk and groceries
+2025-03-05,Food,170,Canteen biryani
+2025-03-07,Transport,45,Bus fare
+2025-03-10,Mobile Recharge,179,Data booster pack
+2025-03-12,Entertainment,220,Cafe hangout
+2025-03-15,Food,130,Vada pav snack
+2025-03-18,Shopping,400,Project materials
+2025-03-20,Health,160,General medicines
+2025-03-22,Food,110,Tea and sandwich
+2025-03-26,Transport,50,Rickshaw fare
+
+2025-04-01,Rent,6500,Monthly hostel rent
+2025-04-03,Groceries,790,Grocery shopping weekly
+2025-04-05,Food,180,Canteen fried rice
+2025-04-08,Transport,60,Metro recharge
+2025-04-10,Mobile Recharge,249,Monthly prepaid recharge
+2025-04-12,Entertainment,199,OTT subscription
+2025-04-15,Food,160,Burger and fries
+2025-04-19,Shopping,325,Stationery
+2025-04-21,Health,200,Vitamin tablets
+2025-04-23,Food,100,Tea and samosa
+2025-04-27,Transport,55,Bike taxi fare
+
+2025-05-01,Rent,6500,Monthly hostel rent
+2025-05-03,Groceries,800,Vegetables and snacks
+2025-05-04,Food,140,Breakfast idli
+2025-05-07,Transport,50,Auto to college
+2025-05-10,Mobile Recharge,249,Monthly plan
+2025-05-12,Entertainment,150,Cafe visit
+2025-05-15,Food,180,Special canteen meal
+2025-05-18,Shopping,230,Drawing sheets
+2025-05-21,Health,210,Clinic visit
+2025-05-23,Food,120,Chole bhature
+2025-05-26,Transport,60,Metro top up
+
+2025-06-01,Rent,6500,Monthly hostel rent
+2025-06-02,Groceries,780,Milk fruits vegetables
+2025-06-04,Food,160,Canteen masala dosa
+2025-06-07,Transport,45,Bus pass recharge
+2025-06-09,Mobile Recharge,179,Data pack
+2025-06-12,Entertainment,300,Movie with friends
+2025-06-14,Food,120,Snacks at cafeteria
+2025-06-17,Shopping,320,Exam stationery
+2025-06-20,Health,190,Medicines
+2025-06-22,Food,130,Pav bhaji dinner
+2025-06-25,Transport,55,Bike taxi ride
+
+2025-07-01,Rent,6500,Monthly hostel rent
+2025-07-03,Groceries,820,Monthly groceries
+2025-07-05,Food,170,Fried rice canteen
+2025-07-08,Transport,60,Metro recharge
+2025-07-10,Mobile Recharge,199,Calling recharge
+2025-07-12,Entertainment,220,Game cafe visit
+2025-07-15,Food,150,Burger meal
+2025-07-17,Shopping,330,College project items
+2025-07-19,Health,180,Clinic medicines
+2025-07-22,Food,100,Tea and bun maska
+2025-07-27,Transport,65,Rickshaw to tuition
+
+2025-08-01,Rent,6500,Monthly hostel rent
+2025-08-03,Groceries,770,Weekly groceries
+2025-08-05,Food,150,Canteen thali
+2025-08-08,Transport,60,Metro top up
+2025-08-10,Mobile Recharge,249,Monthly plan
+2025-08-13,Entertainment,250,Friend outing
+2025-08-15,Food,180,Independence day meal
+2025-08-18,Shopping,400,Project prints
+2025-08-21,Health,220,Doctor visit
+2025-08-24,Food,130,Samosa and chai
+2025-08-28,Transport,55,Shared auto
+
+2025-09-01,Rent,6500,Monthly hostel rent
+2025-09-03,Groceries,800,Vegetables and milk
+2025-09-05,Food,160,Special thali
+2025-09-07,Transport,50,Bus ride
+2025-09-09,Mobile Recharge,199,Data booster
+2025-09-12,Entertainment,180,Cold coffee cafe
+2025-09-15,Food,140,Poha and chai
+2025-09-18,Shopping,350,Stationery and folders
+2025-09-21,Health,200,General treatment
+2025-09-24,Food,120,Pav bhaji
+2025-09-27,Transport,60,Metro card recharge
+
+2025-10-01,Rent,6500,Monthly hostel rent
+2025-10-03,Groceries,780,Monthly groceries
+2025-10-05,Food,170,Biryani
+2025-10-07,Transport,65,Auto ride
+2025-10-10,Mobile Recharge,249,Unlimited calls
+2025-10-13,Entertainment,250,Movie
+2025-10-15,Food,150,Pav bhaji
+2025-10-18,Shopping,300,Notebook set
+2025-10-21,Health,190,Clinic visit
+2025-10-24,Food,120,Chai and paratha
+2025-10-28,Transport,55,Bike taxi
+
+2025-11-01,Rent,6500,Monthly hostel rent
+2025-11-03,Groceries,820,Vegetables fruits milk
+2025-11-05,Food,180,Butter dosa
+2025-11-07,Transport,60,Metro recharge
+2025-11-09,Mobile Recharge,199,Monthly pack
+2025-11-12,Entertainment,300,Cafe outing
+2025-11-15,Food,150,Chicken roll
+2025-11-18,Shopping,450,Project boards
+2025-11-21,Health,210,Medicine purchase
+2025-11-23,Food,130,Samosa and tea
+2025-11-27,Transport,55,Auto ride
+
+2025-12-01,Rent,6500,Monthly hostel rent
